@@ -73,6 +73,8 @@
 
 # Node Package Manager cache
 .npm
+.npm-global
+.yarn-cache
 
 #Flash-specific:
 
