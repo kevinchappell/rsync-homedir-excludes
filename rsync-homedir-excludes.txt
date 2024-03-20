@@ -271,3 +271,5 @@ Thumbs.db
 
 # other temporary files 
 nohup.out
+
+remote
